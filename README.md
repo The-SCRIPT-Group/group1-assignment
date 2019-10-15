@@ -1,4 +1,4 @@
-## Assignment 1
+## Challenge 1
 
 **Instructions:**
 
@@ -6,7 +6,7 @@
 
 2. Navigate to Assignment 1 on your Linux / git bash terminals using :
 
-   > $ cd 'Assignment 1'
+   > $ cd 'Challenge 1'
    
 3. There's a file **BeerBottles.txt**
 
@@ -22,7 +22,7 @@
 
 &nbsp;
 
-## Assignment 2
+## Challenge 2
 
 **Instructions:**
 
@@ -30,7 +30,7 @@
 
 2. Navigate to Assignment 2 on your Linux / git bash terminals using :
 
-   > $ cd 'Assignment 2'
+   > $ cd 'Challenge 2'
 
 3. There's 9 different files, all which are destined to contain codes for the mentioned sorting algorithms as named.
 
