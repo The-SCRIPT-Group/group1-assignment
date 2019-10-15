@@ -20,7 +20,7 @@
 
 8. You're done with 1 PR for Hacktoberfest! Congratulations! 🎉
 
-
+&nbsp;
 
 ## Assignment 2
 
