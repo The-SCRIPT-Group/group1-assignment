@@ -33,7 +33,7 @@ Pass it around
 Take one down,
 Pass it around
 -------------------------------------------------------------
-92 bottles of beer on the wall by prkprime
+92 bottles of beer on the wall by <UNCLAIMED>
 92 bottles of beer.
 Take one down,
 Pass it around
@@ -43,7 +43,7 @@ Pass it around
 Take one down,
 Pass it around
 -------------------------------------------------------------
-90 bottles of beer on the wall by <UNCLAIMED>
+90 bottles of beer on the wall by <amar-belkhede>
 90 bottles of beer.
 Take one down,
 Pass it around
